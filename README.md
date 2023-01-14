@@ -21,8 +21,8 @@ set [data.txt](/data.txt) permissions to 0777
 
 ## Security
 
-* Rename  [data.txt](/data.txt) and also change { $config['logfilename'] } in  [save.php](/save.php)@Config
-* Chande default password (and username) from { $config['password'] }  but it should be in MD5 Hash #> if you search for 'md5 encrypt' ther are many site to encrypt your word
+* Rename  [data.txt](/data.txt) and also change `$config['logfilename']` in  [save.php](/save.php)@Config
+* Chande default password (and username) from `$config['password']`  but it should be in MD5 Hash #> `if you search for 'md5 encrypt' ther are many site to encrypt your word`
 
 
 

@@ -7,7 +7,7 @@ This file accept and save content that use GET or Post [s] or [c] as content als
 LINK /save.php?c=content
 ```
 
-If url use c (or s) data will save automatically and responce if save success or not.
+If url use c (or s) data will save automatically and it responds if the save is successful or not.
 
 You can use [t] Optional for Title
 
